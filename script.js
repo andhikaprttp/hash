@@ -1,4 +1,4 @@
- <script>
+
       // Mendefinisikan fungsi hash
       function hash(str) {
         let hash = 0;
